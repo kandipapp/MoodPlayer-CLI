@@ -50,7 +50,7 @@ The project is organized into three modular components:
 ### Installation & Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/MoodPlayer-CLI.git](https://github.com/YOUR_USERNAME/MoodPlayer-CLI.git)
+    git clone [https://github.com/kandipapp/MoodPlayer-CLI.git](https://github.com/kandipapp/MoodPlayer-CLI.git)
     cd MoodPlayer-CLI
     ```
 
